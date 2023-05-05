@@ -95,7 +95,7 @@ const Account = () => {
                   className="w-20 h-20 rounded-full border border-gray-300 p-2"
                 />
                 <div>
-                  <p className="text-1xl font-bold">Fandy Next JS</p>
+                  <p className="text-1xl font-bold">Sirace</p>
                   <div className="flex items-center gap-x-2">
                     <div className="bg-green-500 w-3 h-3 rounded-full" />
                     <p>Online</p>
