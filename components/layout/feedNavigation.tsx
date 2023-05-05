@@ -28,7 +28,7 @@ const FeedNavigation = () => {
         <div
           className={`${
             side ? "lg:w-44 xl:w-64" : "w-2"
-          } h-screen bg-gradient-to-br from-blue-600 to-indigo-600 duration-500 overflow-hidden items-center flex flex-col  gap-y-2 p-2`}
+          } h-screen bg-gradient-to-br from-green-600 to-green-600 duration-500 overflow-hidden items-center flex flex-col  gap-y-2 p-2`}
         >
           {useMemo(() => {
             return (
@@ -60,7 +60,7 @@ const FeedNavigation = () => {
                       className="w-20 h-20 rounded-full border border-gray-300 p-2"
                     />
                     <div className="w-full text-center">
-                      <p className="text-1xl font-bold">Fandy Next JS</p>
+                      <p className="text-1xl font-bold">Sirace</p>
                       <div className="flex items-center justify-center gap-x-2">
                         <div className="bg-green-500 w-3 h-3 rounded-full" />
                         <p>Online</p>
@@ -92,7 +92,7 @@ const FeedNavigation = () => {
                   <DesktopUser />
                   <p className="text-xl text-white">Profile</p>
                 </button>
-                <button
+                {/* <button
                   onClick={goToFeed}
                   className={`w-full outline-none rounded-md p-2 overflow-hidden border flex items-center gap-x-4 hover:bg-white/50 duration-300 mt-2 ${
                     router.pathname === "/feed"
@@ -103,7 +103,7 @@ const FeedNavigation = () => {
                 >
                   <Feed />
                   <p className="text-xl text-white">Feed</p>
-                </button>
+                </button> */}
               </div>
             );
           }, [side, router])}

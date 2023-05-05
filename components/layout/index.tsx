@@ -64,6 +64,9 @@ const Layout = ({ children }: ChildrenInterface) => {
   return (
     <>
       <div className="h-full w-full flex flex-col justify-between relative">
+        {useMemo(() => {
+          return <FeedNavigation />;
+        }, [])}
         <div className="w-full h-full">
           <Navbar />
           <main className="flex justify-center bg-white w-full h-full">

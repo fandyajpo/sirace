@@ -128,7 +128,7 @@ const Account = () => {
                   <div className="flex flex-row items-center justify-between w-full">
                     <div className="flex gap-x-4">
                       <p className=" text-black w-20">Username</p>
-                      <p className=" text-black font-light ">: Fandy Next JS</p>
+                      <p className=" text-black font-light ">: Sirace</p>
                     </div>
                     <button className="p-2 text-blue-500 hover:bg-blue-500/20 text-xs duration-300 rounded-full">
                       Update
