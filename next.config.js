@@ -13,6 +13,6 @@ module.exports = withPWA({
   },
 
   images: {
-    domains: ["cdn.discordapp.com", "media.giphy.com"],
+    domains: ["cdn.discordapp.com", "media.giphy.com", "cdn.shopify.com"],
   },
 });

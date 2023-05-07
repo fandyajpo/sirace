@@ -1,6 +1,290 @@
 {
   "shoes": [
     {
+      "id": "z5h9d6sm",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104096779676422174/2Q.png",
+      "name": "Originals x Human Made Solar Hu",
+      "category": "men",
+      "description": "The Adidas Originals x Human Made Solar Hu Shoes are a collaboration between Adidas and Japanese streetwear brand Human Made. The shoes feature a colorful and eye-catching design with a breathable mesh upper and a responsive boost™ midsole. The shoes are perfect for streetwear enthusiasts and fans of both brands.",
+      "price": 150,
+      "sizes": [
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "12.5"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        },
+        {
+          "name": "Red",
+          "color_hash": "#FF0000"
+        },
+        {
+          "name": "Blue",
+          "color_hash": "#0000FF"
+        },
+        {
+          "name": "Green",
+          "color_hash": "#00FF00"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/W2hCKLxvPvM"
+    },
+    {
+      "id": "4nd3l22n",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104096557638365274/9k.png",
+      "name": "Futurecraft Loop 2.0",
+      "category": "men",
+      "description": "The Adidas Futurecraft Loop 2.0 Shoes are made with recycled materials and are designed for a sustainable and eco-friendly lifestyle. The shoes feature a unique construction that allows them to be fully recycled and made into new shoes at the end of their life cycle. The shoes have a sleek and modern design and are perfect for those who want to make a positive impact on the environment.",
+      "price": 170,
+      "sizes": [
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "12.5"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "Grey",
+          "color_hash": "#808080"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/6tILJk9X8u8"
+    },
+    {
+      "id": "b8fjg34k",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104095231172956291/2Q.png",
+      "name": "NMD R1 Primeknit",
+      "category": "women",
+      "description": "The Adidas NMD_R1 Primeknit Shoes feature a snug and comfortable fit with a breathable and flexible Primeknit upper. The shoes are designed with a responsive boost™ midsole and a durable rubber outsole that provides excellent traction. The shoes are perfect for both athletic and casual wear, and are available in a variety of colors.",
+      "price": 140,
+      "sizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5"],
+      "colors": [
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "Pink",
+          "color_hash": "#FFC0CB"
+        },
+        {
+          "name": "Blue",
+          "color_hash": "#0000FF"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/7IwxZl98iHc"
+    },
+    {
+      "id": "3jg9dhe5",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104094618922008678/Z.png",
+      "name": "Women's Winter Boots",
+      "category": "women",
+      "description": "These women's winter boots are perfect for cold and snowy weather. They have a waterproof leather upper and a warm lining to keep your feet dry and comfortable. The boots feature a lace-up closure and come in a range of sizes to fit any foot size. They are available in a variety of colors to match any winter outfit.",
+      "price": 150,
+      "sizes": ["5", "6", "7", "8", "9", "10"],
+      "colors": [
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "Brown",
+          "color_hash": "#8B4513"
+        },
+        {
+          "name": "Grey",
+          "color_hash": "#808080"
+        },
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/9NlQDN3q50o"
+    },
+    {
+      "id": "6gj4fns7",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104094316307173446/2Q.png",
+      "name": "Men's Running Shoes",
+      "category": "men",
+      "description": "These men's running shoes are designed for high-performance running. They have a breathable mesh upper and a cushioned sole for all-day comfort. The shoes feature a lace-up closure and come in a range of sizes to fit any foot size. They are available in a variety of colors to match any running outfit.",
+      "price": 120,
+      "sizes": [
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "12.5",
+        "13"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        },
+        {
+          "name": "Blue",
+          "color_hash": "#0000FF"
+        },
+        {
+          "name": "Green",
+          "color_hash": "#008000"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/vdX_OBUeHb4"
+    },
+    {
+      "id": "4hn7fj9s",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104093574850691232/9k.png",
+      "name": "High Top Sneakers",
+      "category": "men",
+      "description": "These high top sneakers are perfect for any casual outfit. They are designed with a durable canvas upper and a cushioned sole for all-day comfort. The sneakers have a lace-up closure and come in a range of sizes to fit any foot size. They are available in a variety of colors to match any casual outfit.",
+      "price": 90,
+      "sizes": ["8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "colors": [
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        },
+        {
+          "name": "Navy Blue",
+          "color_hash": "#000080"
+        },
+        {
+          "name": "Grey",
+          "color_hash": "#808080"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/0qGq3f5wof8"
+    },
+    {
+      "id": "9hs3gk2t",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104093417165815818/9k.png",
+      "name": "Leather Sandals",
+      "category": "women",
+      "description": "These leather sandals are perfect for any summer outfit. They are designed with a comfortable footbed and a sturdy sole for all-day wear. The sandals have an adjustable strap for a customized fit and come in a range of sizes to fit any foot size. They are available in a variety of colors to match any summer outfit.",
+      "price": 60,
+      "sizes": ["5", "6", "7", "8", "9", "10"],
+      "colors": [
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "Brown",
+          "color_hash": "#8B4513"
+        },
+        {
+          "name": "White",
+          "color_hash": "#FFFFFF"
+        },
+        {
+          "name": "Beige",
+          "color_hash": "#F5F5DC"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/zziSdS9mzF0"
+    },
+    {
+      "id": "7nct6df4",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104092346846560346/9k.png",
+      "name": "Running Shoes",
+      "category": "men",
+      "description": "These running shoes are perfect for any workout. They are designed with a breathable upper and a cushioned sole for maximum comfort. The shoes have a lace-up closure and come in a range of sizes to fit any foot size. They are available in a variety of colors to match any workout outfit.",
+      "price": 120,
+      "sizes": ["7", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "colors": [
+        {
+          "name": "Black/White",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "Red/Black",
+          "color_hash": "#FF0000"
+        },
+        {
+          "name": "Blue/White",
+          "color_hash": "#0074D9"
+        },
+        {
+          "name": "Grey/White",
+          "color_hash": "#808080"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/5Oui8QnGy_8"
+    },
+    {
+      "id": "57hdfv32",
+      "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1104091172563066972/9k.png",
+      "name": "Black Leather Dress Shoes",
+      "category": "men",
+      "description": "These black leather dress shoes are perfect for any formal occasion. Made with high-quality leather, they are durable and stylish. The shoes have a classic design with a rounded toe and lace-up closure. They come in a range of sizes to fit any foot size.",
+      "price": 100,
+      "sizes": ["7", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "colors": [
+        {
+          "name": "Black",
+          "color_hash": "#000000"
+        },
+        {
+          "name": "Brown",
+          "color_hash": "#A52A2A"
+        },
+        {
+          "name": "Tan",
+          "color_hash": "#D2B48C"
+        },
+        {
+          "name": "Burgundy",
+          "color_hash": "#800020"
+        }
+      ],
+      "video": "https://www.youtube.com/embed/qX9FSZJu448"
+    },
+    {
       "id": "32fnscjg3",
       "image": "https://cdn.discordapp.com/attachments/1055692229454352384/1103678552718717009/2Q.png",
       "name": "Air Jordan 1",

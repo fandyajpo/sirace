@@ -31,45 +31,53 @@ export default function Home() {
   if (!login) return <Login />;
 
   return (
-    <div className="flex flex-col justify-center pb-24 pt-14 md:py-24">
-      <Screen>
-        <div className="md:max-w-2xl lg:max-w-7xl w-full h-52 flex flex-col md:flex-row grow flex-shrink-0 gap-4">
-          <Banner />
-          <EmblaCarousel />
-        </div>
-      </Screen>
-      <Screen>
-        <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
-          <ProductCardTitle title="For You" />
-          <Category />
-        </div>
-      </Screen>
-      <Screen>
-        <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
-          <ProductCardTitle title="All Type of Shoes We Have" />
-          <ProductCardWrap data={state.product} />
-        </div>
-      </Screen>
-      <Screen>
-        <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
-          <ProductCardTitle title="Run Master" />
-          <ProductCardWrap data={run} />
-        </div>
-      </Screen>
-      <Screen>
-        <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
-          <ProductCardTitle title="Men Shoes" />
-          <ProductCardWrap data={men} />
-        </div>
-      </Screen>
+    <>
+      <div
+        className="bg-white w-full h-screen fixed z-50
+    "
+      >
+        Pay me
+      </div>
+      <div className="flex flex-col justify-center pb-24 pt-14 md:py-24">
+        <Screen>
+          <div className="md:max-w-2xl lg:max-w-7xl w-full h-52 flex flex-col md:flex-row grow flex-shrink-0 gap-4">
+            <Banner />
+            <EmblaCarousel />
+          </div>
+        </Screen>
+        <Screen>
+          <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
+            <ProductCardTitle title="For You" />
+            <Category />
+          </div>
+        </Screen>
+        <Screen>
+          <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
+            <ProductCardTitle title="All Type of Shoes We Have" />
+            <ProductCardWrap data={state.product} />
+          </div>
+        </Screen>
+        <Screen>
+          <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
+            <ProductCardTitle title="Run Master" />
+            <ProductCardWrap data={run} />
+          </div>
+        </Screen>
+        <Screen>
+          <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
+            <ProductCardTitle title="Men Shoes" />
+            <ProductCardWrap data={men} />
+          </div>
+        </Screen>
 
-      <Screen>
-        <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
-          <ProductCardTitle title="Basket Boiler" />
-          <ProductCardWrap data={basket} />
-        </div>
-      </Screen>
-    </div>
+        <Screen>
+          <div className="md:max-w-2xl lg:max-w-7xl w-full h-fit flex flex-col items-stretch grow flex-shrink-0 gap-4">
+            <ProductCardTitle title="Basket Boiler" />
+            <ProductCardWrap data={basket} />
+          </div>
+        </Screen>
+      </div>
+    </>
   );
 }
 
