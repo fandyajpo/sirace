@@ -32,12 +32,7 @@ export default function Home() {
 
   return (
     <>
-      <div
-        className="bg-white w-full h-screen fixed z-50
-    "
-      >
-        Pay me
-      </div>
+    
       <div className="flex flex-col justify-center pb-24 pt-14 md:py-24">
         <Screen>
           <div className="md:max-w-2xl lg:max-w-7xl w-full h-52 flex flex-col md:flex-row grow flex-shrink-0 gap-4">
